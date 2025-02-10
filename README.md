@@ -1,4 +1,5 @@
 ## 🏆 Hackathon Winner - NC Plant Science Initiative, NC State
+![Hackathon Winner](https://img.shields.io/badge/Hackathon-Winner-brightgreen)
 Achieved **first place** in the prestigious hackathon organized by the NC Plant Science Initiative. Designed and implemented an ensemble of advanced machine learning models, including **Random Forest, K-Nearest Neighbors (KNN), Linear Regression, Lasso, and Ridge Regression**, to accurately predict critical plant and soil parameters, driving precision agriculture solutions.
 
 ---
